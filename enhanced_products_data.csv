@@ -1,0 +1,10 @@
+user_id,product_name,category,purchase_frequency,product_rating,problem
+1,Glue,Adhesive,10,5,Household repair
+2,Tape,Adhesive,5,4,Waterproofing
+3,Epoch,Epoxy,2,3,Metal bonding
+4,Super Glue,Adhesive,8,4,Plastic bonding
+5,Industrial Tape,Adhesive,6,5,Waterproofing
+6,Wood Glue,Adhesive,1,3,Wood bonding
+7,Resin,Epoxy,3,4,Plastic bonding
+8,Duct Tape,Adhesive,7,4,Household repair
+9,Contact Cement,Adhesive,4,5,Metal bonding
